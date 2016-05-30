@@ -1,0 +1,22 @@
+﻿{
+	"name": "Gbase",
+	"description": "Company Edition",
+	"version": "1.0.0.0",
+	"launch_path": "/gs://project-3440295922667047531.appspot.com/",
+	"orientation": ["landscape"],
+	"icons": {
+		"16": "/gs://project-3440295922667047531.appspot.com/icon-16.png",
+		"32": "/gs://project-3440295922667047531.appspot.com/icon-32.png",
+		"128": "/gs://project-3440295922667047531.appspot.com/icon-128.png",
+		"256": "/gs://project-3440295922667047531.appspot.com/icon-256.png"
+	},
+	"developer": {
+		"name": "Galexy.inc",
+		"url": "http://www.galexyinternational.blogspot.in"
+	},
+	"default_locale": "en",
+	"permissions": {
+	},
+	"appcache_path": "/gs://project-3440295922667047531.appspot.com/offline.appcache",
+	"fullscreen": "true"
+}
